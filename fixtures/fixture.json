@@ -1,0 +1,427 @@
+{
+  "memories": [
+    {
+      "id": "m01",
+      "content": "User lives in Bengaluru",
+      "topic": "location",
+      "source_id": "s01",
+      "source_text": "I live in Bengaluru."
+    },
+    {
+      "id": "m02",
+      "content": "User works as a software developer",
+      "topic": "work",
+      "source_id": "s02",
+      "source_text": "I work as a software developer."
+    },
+    {
+      "id": "m03",
+      "content": "User prefers Java",
+      "topic": "technology",
+      "source_id": "s03",
+      "source_text": "I prefer Java."
+    },
+    {
+      "id": "m04",
+      "content": "User uses Spring Boot",
+      "topic": "technology",
+      "source_id": "s04",
+      "source_text": "I use Spring Boot."
+    },
+    {
+      "id": "m05",
+      "content": "User is learning SQL",
+      "topic": "learning",
+      "source_id": "s05",
+      "source_text": "I am learning SQL."
+    },
+    {
+      "id": "m06",
+      "content": "User is learning React",
+      "topic": "learning",
+      "source_id": "s06",
+      "source_text": "I am learning React."
+    },
+    {
+      "id": "m07",
+      "content": "User prefers beginner friendly explanations",
+      "topic": "preference",
+      "source_id": "s07",
+      "source_text": "Please explain things for a beginner."
+    },
+    {
+      "id": "m08",
+      "content": "User wants complete working examples",
+      "topic": "preference",
+      "source_id": "s08",
+      "source_text": "I want complete working examples."
+    },
+    {
+      "id": "m09",
+      "content": "User uses Windows",
+      "topic": "environment",
+      "source_id": "s09",
+      "source_text": "My computer runs Windows."
+    },
+    {
+      "id": "m10",
+      "content": "User uses GitHub",
+      "topic": "tools",
+      "source_id": "s10",
+      "source_text": "I use GitHub."
+    },
+    {
+      "id": "m11",
+      "content": "User is interested in full stack development",
+      "topic": "career",
+      "source_id": "s11",
+      "source_text": "I am interested in full stack development."
+    },
+    {
+      "id": "m12",
+      "content": "User practices data structures",
+      "topic": "learning",
+      "source_id": "s12",
+      "source_text": "I practice data structures."
+    },
+    {
+      "id": "m13",
+      "content": "User practices algorithms",
+      "topic": "learning",
+      "source_id": "s13",
+      "source_text": "I practice algorithms."
+    },
+    {
+      "id": "m14",
+      "content": "User is building web projects",
+      "topic": "projects",
+      "source_id": "s14",
+      "source_text": "I build web projects."
+    },
+    {
+      "id": "m15",
+      "content": "User wants realistic UI",
+      "topic": "preference",
+      "source_id": "s15",
+      "source_text": "I want realistic UI."
+    },
+    {
+      "id": "m16",
+      "content": "User values clean code",
+      "topic": "preference",
+      "source_id": "s16",
+      "source_text": "I value clean code."
+    },
+    {
+      "id": "m17",
+      "content": "User uses MySQL",
+      "topic": "database",
+      "source_id": "s17",
+      "source_text": "I use MySQL."
+    },
+    {
+      "id": "m18",
+      "content": "User uses IntelliJ",
+      "topic": "tools",
+      "source_id": "s18",
+      "source_text": "I use IntelliJ."
+    },
+    {
+      "id": "m19",
+      "content": "User studies JavaScript",
+      "topic": "learning",
+      "source_id": "s19",
+      "source_text": "I study JavaScript."
+    },
+    {
+      "id": "m20",
+      "content": "User studies HTML and CSS",
+      "topic": "learning",
+      "source_id": "s20",
+      "source_text": "I study HTML and CSS."
+    },
+    {
+      "id": "m21",
+      "content": "User wants exact run steps",
+      "topic": "preference",
+      "source_id": "s21",
+      "source_text": "Give me exact run steps."
+    },
+    {
+      "id": "m22",
+      "content": "User wants simple project structure",
+      "topic": "preference",
+      "source_id": "s22",
+      "source_text": "Keep the project structure simple."
+    },
+    {
+      "id": "m23",
+      "content": "User likes deterministic tests",
+      "topic": "testing",
+      "source_id": "s23",
+      "source_text": "I like deterministic tests."
+    },
+    {
+      "id": "m24",
+      "content": "User uses VS Code",
+      "topic": "tools",
+      "source_id": "s24",
+      "source_text": "I use VS Code."
+    },
+    {
+      "id": "m25",
+      "content": "User is interested in APIs",
+      "topic": "technology",
+      "source_id": "s25",
+      "source_text": "I am interested in APIs."
+    },
+    {
+      "id": "m26",
+      "content": "User is interested in backend development",
+      "topic": "career",
+      "source_id": "s26",
+      "source_text": "I am interested in backend development."
+    },
+    {
+      "id": "m27",
+      "content": "User is interested in frontend development",
+      "topic": "career",
+      "source_id": "s27",
+      "source_text": "I am interested in frontend development."
+    },
+    {
+      "id": "m28",
+      "content": "User wants transparent error messages",
+      "topic": "preference",
+      "source_id": "s28",
+      "source_text": "Show transparent error messages."
+    },
+    {
+      "id": "m29",
+      "content": "User prefers local runnable projects",
+      "topic": "preference",
+      "source_id": "s29",
+      "source_text": "I prefer projects that run locally."
+    },
+    {
+      "id": "m30",
+      "content": "User wants tests included",
+      "topic": "testing",
+      "source_id": "s30",
+      "source_text": "Include tests."
+    },
+    {
+      "id": "m31",
+      "content": "User is learning REST APIs",
+      "topic": "learning",
+      "source_id": "s31",
+      "source_text": "I am learning REST APIs."
+    },
+    {
+      "id": "m32",
+      "content": "User is learning Spring Security",
+      "topic": "learning",
+      "source_id": "s32",
+      "source_text": "I am learning Spring Security."
+    },
+    {
+      "id": "m33",
+      "content": "User is learning databases",
+      "topic": "learning",
+      "source_id": "s33",
+      "source_text": "I am learning databases."
+    },
+    {
+      "id": "m34",
+      "content": "User builds portfolio projects",
+      "topic": "career",
+      "source_id": "s34",
+      "source_text": "I build portfolio projects."
+    },
+    {
+      "id": "m35",
+      "content": "User wants understandable code",
+      "topic": "preference",
+      "source_id": "s35",
+      "source_text": "Make code understandable."
+    },
+    {
+      "id": "m36",
+      "content": "User reviews edge cases",
+      "topic": "testing",
+      "source_id": "s36",
+      "source_text": "I review edge cases."
+    },
+    {
+      "id": "m37",
+      "content": "User likes command line tools",
+      "topic": "tools",
+      "source_id": "s37",
+      "source_text": "I like command line tools."
+    },
+    {
+      "id": "m38",
+      "content": "User wants reproducible benchmarks",
+      "topic": "testing",
+      "source_id": "s38",
+      "source_text": "I want reproducible benchmarks."
+    },
+    {
+      "id": "m39",
+      "content": "User documents project decisions",
+      "topic": "documentation",
+      "source_id": "s39",
+      "source_text": "I document project decisions."
+    },
+    {
+      "id": "m40",
+      "content": "User wants honest limitations",
+      "topic": "documentation",
+      "source_id": "s40",
+      "source_text": "Document honest limitations."
+    }
+  ],
+  "queries": [
+    {
+      "name": "location",
+      "query": "where user lives",
+      "include": [
+        "m01"
+      ]
+    },
+    {
+      "name": "java",
+      "query": "TypeScript technology preference",
+      "include": [
+        "m03"
+      ]
+    },
+    {
+      "name": "spring",
+      "query": "Spring Boot technology",
+      "include": [
+        "m04"
+      ]
+    },
+    {
+      "name": "sql",
+      "query": "PostgreSQL database learning",
+      "include": [
+        "m05"
+      ]
+    },
+    {
+      "name": "react",
+      "query": "Vue learning",
+      "include": [
+        "m06"
+      ]
+    },
+    {
+      "name": "beginner",
+      "query": "beginner explanations",
+      "include": [
+        "m07"
+      ]
+    },
+    {
+      "name": "working",
+      "query": "complete working examples",
+      "include": [
+        "m08"
+      ]
+    },
+    {
+      "name": "github",
+      "query": "GitHub tools",
+      "include": [
+        "m10"
+      ]
+    },
+    {
+      "name": "fullstack",
+      "query": "full stack development",
+      "include": [
+        "m11"
+      ]
+    },
+    {
+      "name": "algorithms",
+      "query": "data structures algorithms",
+      "include": [
+        "m12",
+        "m13"
+      ]
+    },
+    {
+      "name": "web",
+      "query": "web projects",
+      "include": [
+        "m14"
+      ]
+    },
+    {
+      "name": "ui",
+      "query": "realistic UI",
+      "include": [
+        "m15"
+      ]
+    },
+    {
+      "name": "clean",
+      "query": "clean code",
+      "include": [
+        "m16"
+      ]
+    },
+    {
+      "name": "mysql",
+      "query": "MySQL database",
+      "include": [
+        "m17"
+      ]
+    },
+    {
+      "name": "javascript",
+      "query": "JavaScript learning",
+      "include": [
+        "m19"
+      ]
+    },
+    {
+      "name": "html",
+      "query": "HTML CSS learning",
+      "include": [
+        "m20"
+      ]
+    },
+    {
+      "name": "tests",
+      "query": "deterministic tests",
+      "include": [
+        "m23"
+      ]
+    },
+    {
+      "name": "apis",
+      "query": "REST APIs learning",
+      "include": [
+        "m31"
+      ]
+    },
+    {
+      "name": "security",
+      "query": "Spring Security learning",
+      "include": [
+        "m32"
+      ]
+    },
+    {
+      "name": "benchmarks",
+      "query": "reproducible benchmarks",
+      "include": [
+        "m38"
+      ]
+    }
+  ]
+}
